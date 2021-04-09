@@ -1,0 +1,9 @@
+{
+  "name": "php-mailer",
+  "version": "1.0.0",
+  "description": "Php mailler API for Contact form",
+  "main": "index.php",
+  "author": "vinocrzy <vinoth.vinothkanna.kanna2@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
